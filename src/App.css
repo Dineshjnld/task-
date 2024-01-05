@@ -47,3 +47,24 @@
 }
 
 /* Add more styles as needed for your application */
+/* App.css or your styling file */
+
+/* ... (existing styles) */
+
+.table-container {
+  width: 100%;
+}
+
+.responsive-table-wrapper {
+  overflow-x: auto;
+}
+
+.table-responsive {
+  overflow-y: auto;
+}
+
+@media screen and (max-width: 768px) {
+  .table-responsive {
+    width: 100%;
+  }
+}
