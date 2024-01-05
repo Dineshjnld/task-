@@ -28,7 +28,7 @@ const App = () => {
       <div className="header">
         <h1>Scheduler Data</h1>
         <br></br>
-        <p>Welcome to the Scheduler application. Below is the table displaying scheduling data.</p>
+        <p> Scheduler application. Below is the table displaying scheduling data.</p>
        <br></br>
        <p>The Schedule is from 31-12-2023 to 06-12-2023</p>
       </div>
