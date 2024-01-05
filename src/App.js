@@ -32,7 +32,7 @@ const App = () => {
         </p>
         <p className="text-lg">
           The Schedule is from <span className="font-bold">31-12-2023</span> to{' '}
-          <span className="font-bold">06-12-2023</span>
+          <span className="font-bold">06-01-2024</span>
         </p>
       </div>
 
