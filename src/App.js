@@ -28,11 +28,11 @@ const App = () => {
       <div className="header bg-gray-500 text-white p-8">
         <h1 className="text-4xl font-bold mb-4">Scheduler Data</h1>
         <p className="text-lg mb-4">
-          Welcome, this is a Scheduler application. Below is the table displaying scheduling data.
+          Welcome, this is a Scheduler application. Below is the table displaying schedule.
         </p>
         <p className="text-lg">
-          The Schedule is from <span className="font-bold">31-12-2023</span> to{' '}
-          <span className="font-bold">06-01-2024</span>
+          The Schedule is from <span className="font-bold">04-01-2024</span> to{' '}
+          <span className="font-bold">10-01-2024</span>
         </p>
       </div>
 
